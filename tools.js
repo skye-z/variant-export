@@ -4,7 +4,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://variant.com/*
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      skye-z
 // @license     MIT
 // @description 2026/3/31 17:14:19
