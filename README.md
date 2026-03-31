@@ -20,6 +20,6 @@ Its function is straightforward: it adds an export button in the bottom-left cor
 
 variant 非常好用, 我也很乐意为其付费, 但是我将其推荐给朋友时发现没有付费居然不允许导出? 我不知道这是什么时候修改的政策, 但这很不好, 举个简单的例子, 如果我的会员到期了我还能导出之前生成的吗?
 
-我不打算把控制权交到variant手上, 于是我话3分钟写出了这个脚本(简单到都不需要AI
+我不打算把控制权交到variant手上, 于是我花3分钟写出了这个脚本(简单到都不需要AI
 
 它的作用非常简单, 在生成的UI左下角添加一个导出按钮, 点击后即可导出为HTML文件
